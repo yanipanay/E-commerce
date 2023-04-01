@@ -2,7 +2,7 @@ package com.driver;
 
 import org.springframework.stereotype.Component;
 
-@Component
+
 public class DeliveryPartner {
 
     private String id;
